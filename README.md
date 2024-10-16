@@ -70,6 +70,7 @@
   <a href="https://instagram.com/whosziad_" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" 
  /></a>
   <a href="https://stackoverflow.com/users/27832104/zyad-mohammad" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52"           height="40" alt="stackoverflow logo"  /></a>
+  <a href="zyadmohammad00@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </div>
 
 ###
