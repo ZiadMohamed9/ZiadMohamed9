@@ -74,12 +74,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ZiadMohamed9/ZiadMohamed9/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/ZiadMohamed9/count.svg?"  />
 </div>
